@@ -1,4 +1,4 @@
-#TASK-2
+# TASK-2
 COMPANY :CODTECH IT SOLUTIONS
 
 NAME: T.M.SATHESH KUMAR
@@ -11,11 +11,11 @@ DURATION:6 WEEKS
 
 MENTOR: NELLA SANTOSH
 
-#TASK DESCRIOTON
-#Project Title:
+# TASK DESCRIOTON :
+# Project Title:
 Media Player App with Local Audio Playback and Basic Controls
 
-#🔸 Description:
+# 🔸 Description:
 This project involves the development of a Media Player Android application that is capable of playing audio files stored in the device’s local storage. The goal is to create a functional and user-friendly app that allows users to listen to music or audio files with basic playback controls.
 
 The app scans the device’s local storage to list available audio files (such as MP3, WAV, etc.). Users can browse and select a song to play. Once an audio file is selected, the media player begins playback and provides the user with simple and intuitive controls:
