@@ -11,7 +11,7 @@ DURATION:6 WEEKS
 
 MENTOR: NELLA SANTOSH
 
-# TASK DESCRIOTON :
+# TASK DESCRIPTION :
 # Project Title:
 Media Player App with Local Audio Playback and Basic Controls
 
